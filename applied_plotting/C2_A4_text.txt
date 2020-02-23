@@ -1,0 +1,24 @@
+http://testportal.gov.ua/zvity-dani-efi/ - here i got dataset with exams results
+
+How did the law students from the most popular universities (among prospective law students)  pass their the entry exams in the magistracy;
+
+Every law student, who want to get Master of Laws degree, had to pass three national exams: law, logic and foreign language (English/German/French/Spanish).There's no chance to enter the Magistracy without these exams. There is another set of students that wrote only language exam in the dataset, but that's another long story full of blood, swear and tears ... Only 3% chose not English for foreign language exam, thus I not included these results. At the exam student can get score between 100 and 200 or "not passed".
+Also there're  the entrance competition, great battle for chance to study at the university. I built the universities ranking according the applications amount. 
+
+Every law student, who want to get Master of Laws degree, had to pass three national exams: law, logic and foreign language (English/German/French/Spanish).There's no chance to enter the Magistracy without these exams. There is another set of students that wrote only language exam in the dataset, but that's another long story full of blood, swear and tears ... Only 3% chose not English for foreign language exam, thus I not included these results. At the exam student can get score between 100 and 200 or "not passed".
+Also there're  the entrance competition, great battle for chance to study at the university. I built the universities ranking according the applications amount. 
+As the result you can see visualization how graduates dealt with their exams. Red line is an average score per country.   
+I used dark green for top three most successful universities for each category, but as you can see, leaders are the same for each subject.  
+As you can see "popularity" doesn't mean quality in this situation. 
+For example university № 5 lags behind in each category, despite it's quite good technical university it's not so if we talk about law major. And the best students studies in univ №9 and №20 better than №2 on all counts
+At a glance it possible to say that student from Kyiv and from "classical" universities know English better than others. 
+
+
+
+Truthfulness
+I used data from open goverment resourses  
+Beauty
+I hope i have removed all confusing visual elements. I have used simple colors for the visualization, shapes of green for mean score and red for average per country, It should help the reader better understand the plot.
+Functionality and insightfulness 
+I believe  that investigations like this can help applicant make right chose and find university that "unlock" their potential 
+
